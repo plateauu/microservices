@@ -1,4 +1,4 @@
-# Documents about microservices
+# Materials about microservices
 
 ## Issues:
 * Contract Driven Development
@@ -27,3 +27,30 @@
 
 ## Architecture: 
 * [Designing and building a micro-services architecture. Stairway to heaven or a highway to hell?](https://www.slideshare.net/aahoogendoorn/designing-and-building-a-microservices-architecture-stairway-to-heaven-or-a-highway-to-hell)
+* [Local Continouse delivery with docker](https://dzone.com/articles/local-continuous-delivery-environment-with-docker)
+* [Stability patterns applied in a restful architecture](https://www.javaworld.com/article/2824163/application-performance/stability-patterns-applied-in-a-restful-architecture.amp.html)
+
+
+## Falacies of distributed computing
+[Wiki](http://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+
+* The network is reliable
+* Latency is zero
+* Bandwidth is infinite
+* The network is secure
+* Topology doesn't change
+* There is one administrator
+* Transport cost is zero
+* The network is homogeneous
+
+
+## Stability design patterns 
+* retry
+* die
+* circuit breaker 
+* Hospital queue
+* Rolback and leave
+* Bulkhead
+* Compensative transaction
+* SAS - Scheculer Agent Supervisor
+And was more
