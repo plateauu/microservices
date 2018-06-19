@@ -19,8 +19,7 @@
 ## Tools:
 #### Apache Kafka
 * [Microservices with Kafka by László-Róbert Albert and Dan Balescu DEVOXX'17](https://www.youtube.com/watch?v=iRTnMdtKGBg)
-* [Microservices in the Apache Kafka Ecosystem
-] (https://www.slideshare.net/ConfluentInc/microservices-in-the-apache-kafka-ecosystem)
+* [Microservices in the Apache Kafka Ecosystem](https://www.slideshare.net/ConfluentInc/microservices-in-the-apache-kafka-ecosystem)
 
 ## Security:
 * [Security and Microservices by Sam Newman
